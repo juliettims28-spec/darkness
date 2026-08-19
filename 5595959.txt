@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #announce: юзайте,всех обнимаем
 vless://d8e5ec3a-1d83-4e16-b5c0-4dda6d1f8a6e@ger.jykvpn.com:80?flow=&type=grpc&mode=gun&serviceName=vless&security=none#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20WI-FI
-vless://d8e5ec3a-1d83-4e16-b5c0-4dda6d1f8a6e@178.72.149.133:80?flow=&type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=ads.x5.ru&pbk=MNTWCLyV7EquFnJ0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=ccf6f64e6bc81cd1#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20WI-FI
 vless://d8e5ec3a-1d83-4e16-b5c0-4dda6d1f8a6e@nlre.jykvpn.com:80?flow=&type=grpc&mode=gun&serviceName=vless&security=none#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20WI-FI
 vless://d8e5ec3a-1d83-4e16-b5c0-4dda6d1f8a6e@fire.jykvpn.com:80?flow=&type=grpc&mode=gun&serviceName=vless&security=none#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20WI-FI
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?flow=&type=tcp&headerType=none&security=none#%F0%9F%87%A9%F0%9F%87%AA%D0%92%D0%B0%D0%B9%20%D1%84%D0%B0%D0%B9
